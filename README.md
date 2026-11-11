@@ -11,6 +11,11 @@ Stable day-to-day workflow for shipping with agents. Survives model churn; ignor
 | [PLAYBOOK.md](./PLAYBOOK.md) | One feature end-to-end (~60 min to internalise) |
 | [GLOSSARY.md](./GLOSSARY.md) | Skills vs `/loop` vs graphs (DAG) — the naming trap |
 
+## Reusable skills
+
+- [first-principles](./skills/first-principles/SKILL.md): examine claims and engineering decisions from first principles.
+- [show-me-first](./skills/show-me-first/SKILL.md): explicitly request concrete examples, observable behavior, and experiments before abstract explanation. See [usage examples](./skills/show-me-first/examples.md) and [evaluation cases](./skills/show-me-first/evals.md).
+
 ## Stable vs volatile
 
 **Stable (keep investing here):** rules · skills · specs · verifiers  
